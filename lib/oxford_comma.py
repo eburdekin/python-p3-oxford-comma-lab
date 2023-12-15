@@ -7,8 +7,3 @@ def oxford_comma(items):
 
     else:
         return " ".join(items)
-
-
-oxford_comma(["peach"])
-oxford_comma(["peach", "pear"])
-oxford_comma(["peach", "pear", "nectarine"])
